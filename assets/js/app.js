@@ -5,10 +5,9 @@ window.onload = function() {
     userName.addEventListener("click", function(){
         var name = document.getElementById("input-name").value;
         document.getElementById("show-name").innerHTML = "Bienvenid@: " + name;
-
     })
 
-
+     
 
 
 }
